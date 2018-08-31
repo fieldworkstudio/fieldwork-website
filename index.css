@@ -51,6 +51,7 @@
 }
 
 html, body {
+  font-family: 'Acumin', 'sans-serif'
   font-weight: Regular;
   background-color: #fff;
   vertical-align: baseline;
@@ -58,7 +59,7 @@ html, body {
 
 body {
   font: normal 1.5em;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Acumin', sans-serif;
   color: #3D3D3D;
   margin: bottom: 60px;
 }
